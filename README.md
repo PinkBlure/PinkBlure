@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hola, soy Aileen 👋
 
+### Sobre mi
+---
+
+- Estudiante de desarrollo web 💻
+- También dedico tiempo a estudiar de forma autodidacta 📚
 <!--
 **PinkBlure/PinkBlure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
